@@ -1,1 +1,8 @@
 @import "tailwindcss";
+.w1{
+    background-image: url(IMAGE\ \(53\).png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
